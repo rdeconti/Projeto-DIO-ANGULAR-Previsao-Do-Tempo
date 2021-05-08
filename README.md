@@ -22,24 +22,18 @@ Neste Labs o objetivo é evoluir mais ainda seus conhecimentos em Angular e dese
 ## Telas dos testes executados
 
 - Tela inicial
-<img src="https://github.com/rdeconti/Projeto-DIO-.Net-Vaquinha-On-Line/blob/main/Execution-tests/telas-aplicativo.jpg" />
+<img src="https://github.com/rdeconti/Projeto-DIO-ANGULAR-Previsao-Do-Tempo/blob/main/screenTests/tela-inicial.jpg" />
 
-- Tela da doação
-<img src="https://github.com/rdeconti/Projeto-DIO-.Net-Vaquinha-On-Line/blob/main/Execution-tests/telas-aplicativo-doa%C3%A7%C3%A3o.jpg" />
+- Tela pesquisa nome
+<img src="https://github.com/rdeconti/Projeto-DIO-ANGULAR-Previsao-Do-Tempo/blob/main/screenTests/tela-pesquisa-nome.jpg" />
 
-- Tela com a lista dos testes (utilizando a extensão ".NET TEST EXPLORER")
-<img src="https://github.com/rdeconti/Projeto-DIO-.Net-Vaquinha-On-Line/blob/main/Execution-tests/telas-lista-dos-testes.jpg" />
+- Tela pesquisa nome com autocomplete
+<img src="https://github.com/rdeconti/Projeto-DIO-ANGULAR-Previsao-Do-Tempo/blob/main/screenTests/tela-pesquisa-nome-2.jpg" />
 
-- Tela iniciando a execução de um teste
-<img src="https://github.com/rdeconti/Projeto-DIO-.Net-Vaquinha-On-Line/blob/main/Execution-tests/telas-execu%C3%A7%C3%A3o-de-um-teste.jpg" />
+- Tela com detalhes da previsão
+<img src="https://github.com/rdeconti/Projeto-DIO-ANGULAR-Previsao-Do-Tempo/blob/main/screenTests/tela-exibe-detalhes.jpg" />
 
-- Tela com o log de execução do teste
-<img src="https://github.com/rdeconti/Projeto-DIO-.Net-Vaquinha-On-Line/blob/main/Execution-tests/telas-execu%C3%A7%C3%A3o-de-um-teste-log.jpg" />
-
-- Tela com o resultado de um teste
-<img src="https://github.com/rdeconti/Projeto-DIO-.Net-Vaquinha-On-Line/blob/main/Execution-tests/telas-execu%C3%A7%C3%A3o-indivudual-dos-testes.jpg" />
-
-# JvWeather
+# Dados obtidos do README original
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
